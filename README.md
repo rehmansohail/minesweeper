@@ -25,6 +25,6 @@ Create Grid   | Generate the grid based on the prevoius setting
 * Right click on a flagged tile
     * Removes the flag from the tile and re-enables the inputs/actions on that tile
 
-:radio_button: When game is over a message dialog allows the player to retry and start a new game
+:o: When game is over a message dialog allows the player to retry and start a new game
 
-:radio_button: If the number of mines set is greater than the total number of cells, a message dialog warns the player of the invalid input and prevents the creation of the grid
+:o: If the number of mines set is greater than the total number of cells, a message dialog warns the player of the invalid input and prevents the creation of the grid
